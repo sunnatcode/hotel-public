@@ -1,0 +1,10 @@
+pip install djangorestframework
+python3 manage.py runserver
+Ozbecha yozib ketvuraman
+
+Room app da Admin = Roomga taluqli tablelar ustida crud amallarini bajara oladi
+Foydalanuvchi royhatdan otmagan holdaham Roomlarni royhatini olishi mumkn
+
+Authen app da Royhatdan customer sifatida otiladi
+Admin = Employer lar va Jobs lar ustida crud amallarini bajara oladi
+
